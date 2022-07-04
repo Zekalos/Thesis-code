@@ -1,0 +1,5 @@
+InceptionV3-Adagrad-0.0001 
+Start : 20-06-2022-08-40-19 
+InceptionV3-Adagrad-0.0001 
+Start : 20-06-2022-13-23-16 
+End : 20-06-2022-18-09-13

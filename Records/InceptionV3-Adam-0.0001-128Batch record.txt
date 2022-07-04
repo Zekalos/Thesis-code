@@ -1,0 +1,6 @@
+InceptionV3-Adam-0.0001-128Batch 
+Start : 22-06-2022-23-15-29 
+InceptionV3-Adam-0.0001-128Batch 
+Start : 23-06-2022-07-41-01 
+End : 23-06-2022-11-46-52InceptionV3-Adam-0.0001-128Batch 
+Start : 26-06-2022-12-39-23 

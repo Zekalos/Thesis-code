@@ -1,0 +1,13 @@
+0 Air Conditioner
+1 Bag
+2 Clothing Hooks
+3 Dumbbell
+4 Fan
+5 Game Console
+6 Mirror
+7 Shoe Rack
+8 Tissue
+9 Treadmill
+10 Water Tap
+11 WiFi Router
+12 Window
